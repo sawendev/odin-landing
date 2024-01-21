@@ -168,3 +168,11 @@ cite {
 .cta-left p {
     color: #E5E7EB;
 }
+
+footer {
+    background-color: #1F2937;
+    padding: 32px 128px;
+    text-align: center;
+    color: #E5E7EB;
+    font-size: 18px;
+}
