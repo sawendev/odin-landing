@@ -138,3 +138,33 @@ cite {
     font-weight: bold;
     font-style: normal;
 }
+
+.cta-section {
+    padding: 48px 128px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 32px 96px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.call-to-action button {
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+.cta-left {
+    flex: 1;
+}
+
+.cta-left h2 {
+    color: white;
+}
+
+.cta-left p {
+    color: #E5E7EB;
+}
